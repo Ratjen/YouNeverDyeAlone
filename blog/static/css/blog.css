@@ -44,3 +44,12 @@ h1, h2, h3, h4 {
 .post h1 a, .post h1 a:visited {
     color: #000000;
 }
+
+.gildebackground {
+	background: #000000;
+}
+
+.gildenvorstellung {
+	color: #ff9400;
+	margin-left: 40px;
+}
